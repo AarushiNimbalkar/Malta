@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-color: rgb(183, 224, 250);
+}
+img{
+    height:300px;
+    width:300px;
+}
+.links{
+    padding-left:33px;
+    padding-right:25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:20px;
+    display: inline;
+}
+.links:hover{
+    font-size:25px;
+}
